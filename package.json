@@ -1,0 +1,23 @@
+{
+  "name": "sitespb2",
+  "version": "1.0.0",
+  "description": "Site in SPb (Landing Page)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nefone/sitespb.git"
+  },
+  "author": "Alexandr Toropov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nefone/sitespb/issues"
+  },
+  "homepage": "https://github.com/nefone/sitespb#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {}
+}
